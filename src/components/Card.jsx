@@ -60,7 +60,7 @@ function UserCard(props) {
             <p className="userDetailItem">{phoneNumberConverter(phone)}</p>
           </div>
           <div>
-            <p className="userDetailHeader">createdAt</p>
+            <p className="userDetailHeader">Created At</p>
             <p className="userDetailItem">
               {dateTimeConverter(new Date(createdAt))}
             </p>
