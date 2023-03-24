@@ -7,12 +7,12 @@ body {
   margin: 0px;
   padding: 0px;
   background-color: #eeeeee;
+  font-family: "Open Sans", sans-serif;
 }
 p {
   margin: 0;
 }
 .App {
-  font-family: "Open Sans", sans-serif;
   text-align: center;
 }
 
